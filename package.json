@@ -1,0 +1,13 @@
+{
+  "name": "carfeecalc-mcp",
+  "version": "1.0.0",
+  "description": "CarFeeCalc MCP server and Cursor plugin for vehicle fee research and calculations.",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://carfeecalc.com/",
+  "repository": { "type": "git", "url": "https://github.com/arifaidev/carfeecalc-mcp.git" },
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "tsx server/src/index.ts", "dev": "tsx server/src/index.ts", "typecheck": "tsc --noEmit" },
+  "dependencies": { "@modelcontextprotocol/server": "^2.0.0", "zod": "^4.0.0" },
+  "devDependencies": { "@types/node": "^24.0.0", "tsx": "^4.20.0", "typescript": "^5.9.0" }
+}

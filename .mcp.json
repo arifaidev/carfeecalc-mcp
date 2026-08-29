@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "carfeecalc": {
+      "command": "npx",
+      "args": ["-y", "github:arifaidev/carfeecalc-mcp"]
+    }
+  }
+}

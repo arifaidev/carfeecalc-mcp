@@ -1,0 +1,13 @@
+{
+  "name": "carfeecalc-marketplace",
+  "owner": { "name": "CarFeeCalc" },
+  "metadata": { "description": "CarFeeCalc vehicle fee calculation and research tools for Cursor" },
+  "plugins": [
+    {
+      "name": "carfeecalc",
+      "source": ".",
+      "description": "Vehicle registration, title, tax, plate, EV-fee, VIN, and out-the-door calculation skills.",
+      "version": "1.0.0"
+    }
+  ]
+}

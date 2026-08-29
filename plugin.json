@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "carfeecalc",
+  "version": "1.0.0",
+  "description": "CarFeeCalc tools and skills for vehicle registration, title, sales tax, plate, EV fees, VIN workflows, and out-the-door costs using official sources.",
+  "author": { "name": "CarFeeCalc" },
+  "homepage": "https://carfeecalc.com/",
+  "repository": "https://github.com/arifaidev/carfeecalc-mcp",
+  "license": "MIT",
+  "keywords": ["car-fees","vehicle-fees","dmv","registration","title","sales-tax","vehicle-tax","ev-fees","vin","out-the-door","carfeecalc"],
+  "logo": "assets/logo.svg"
+}

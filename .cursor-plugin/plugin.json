@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schemas.cursor.com/plugin.json",
+  "name": "carfeecalc",
+  "displayName": "CarFeeCalc",
+  "version": "1.0.0",
+  "description": "Vehicle registration, title, tax, plate, EV-fee, VIN, and out-the-door calculator skills for CarFeeCalc.com.",
+  "author": { "name": "CarFeeCalc" },
+  "homepage": "https://carfeecalc.com/",
+  "repository": "https://github.com/arifaidev/carfeecalc-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "skills": [
+    "skills/vehicle-fee-calculator",
+    "skills/state-fee-research",
+    "skills/calculator-testing",
+    "skills/vehiclefeecalc-seo",
+    "skills/fee-source-verification",
+    "skills/vehicle-data-and-vin",
+    "skills/out-the-door-calculator"
+  ]
+}
